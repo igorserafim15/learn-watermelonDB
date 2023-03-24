@@ -14,8 +14,8 @@
       "@routes/*": [
         "./src/routes/*"
       ],
-      "@views/*": [
-        "./src/views/*"
+      "@screens/*": [
+        "./src/screens/*"
       ],
       "@storage/*": [
         "./src/storage/*"
